@@ -13,3 +13,6 @@ O desafio consiste em construir uma planilha que ajude o usuário a realizar ess
 - Documentar processos técnicos de forma clara e estruturada; 
 - Utilizar o GitHub como ferramenta para compartilhamento de documentação técnica.
 
+![Badge Finalizado](http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=GREEN&style=for-the-badge)
+
+
