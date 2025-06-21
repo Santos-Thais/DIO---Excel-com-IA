@@ -1,5 +1,5 @@
 <p align="center">
-<img loading="lazy" src="https://github.com/user-attachments/assets/310bef18-14e9-4f98-aac0-94fa017fb903"/>
+<img loading="lazy" src="Blue and White Simple Congratulations Banner (1).png"/>
 </p>
 
 A proposta deste desafio é desenvolver de uma ferramenta prática de simulação de investimentos em fundos imobiliários. A partir de uma compreensão sobre como os fundos imobiliários funcionam e as perguntas típicas dos investidores (quanto investir, por quanto tempo, taxa de rendimento, etc.).
